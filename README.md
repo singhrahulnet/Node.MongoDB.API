@@ -23,9 +23,9 @@
 
 >   Download and install Node.Js and Visual Studio Code
 
->   clone /download the repository.
+>   Clone /download the repository.
 
->   open LMS.API folder in Visual Studio Code
+>   Open LMS.API folder in Visual Studio Code
 
 ### Running the API
 
